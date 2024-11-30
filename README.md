@@ -28,8 +28,8 @@ How to Run
 
     Clone the repository:
 
-git clone https://github.com/your-username/synthetic-time-series-anomaly-detection.git
-cd synthetic-time-series-anomaly-detection
+git clone https://github.com/debargyadinda/AnomaliGen-Synthetic-Data.git
+cd AnomaliGen-Synthetic-Data
 
 Install required libraries:
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 Run the script:
 
-    python generate_and_detect_anomalies.py
+    python anomalygen_using_syntheticdata.py
 
 File Structure
 
