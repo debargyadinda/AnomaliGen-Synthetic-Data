@@ -3,6 +3,8 @@ Synthetic Multivariate Time Series with Anomaly Detection
 This project demonstrates the creation, processing, and visualization of a synthetic multivariate time series dataset with integrated anomaly detection. The workflow includes generating a large dataset, detecting anomalies using statistical thresholds and machine learning, and visualizing the results with clear anomaly markers.
 Features
 
+CSV file link - https://drive.google.com/file/d/1GjV2H0kEDYl_t1ISpYyE6ClGNUMbzHgc/view?usp=sharing
+
     Synthetic Data Generation
         Simulates hardware metrics such as Cpu_Temperature, Cpu_Usage, Cpu_Load, Memory_Usage, Battery_Level, and Cpu_Power.
         Generates over 8.64M samples for 24 hours at a sampling rate of 100 Hz.
@@ -41,7 +43,7 @@ Run the script:
 
 File Structure
 
-    generate_and_detect_anomalies.py: Main script for data generation, anomaly detection, and visualization.
+    anomalygen_using_syntheticdata.py: Main script for data generation, anomaly detection, and visualization.
     hardware_monitor_data_with_anomalies_large.csv: Generated dataset (created after running the script).
 
 Notes
