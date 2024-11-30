@@ -9,7 +9,8 @@ CSV file link - https://drive.google.com/file/d/1GjV2H0kEDYl_t1ISpYyE6ClGNUMbzHg
         Simulates hardware metrics such as Cpu_Temperature, Cpu_Usage, Cpu_Load, Memory_Usage, Battery_Level, and Cpu_Power.
         Generates over 8.64M samples for 24 hours at a sampling rate of 100 Hz.
 
-    Anomaly Simulation
+    Anomaly Simulation![plot](https://github.com/user-attachments/assets/6c1c6bd7-294b-4345-88bc-cfc02edb0a9c)
+
         Injects anomalies based on pre-defined thresholds (e.g., Cpu_Temperature > 90°C).
         Implements machine learning-based anomaly detection using Isolation Forest.
 
